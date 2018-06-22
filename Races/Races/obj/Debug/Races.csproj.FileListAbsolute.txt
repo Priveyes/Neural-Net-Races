@@ -1,0 +1,7 @@
+E:\Code Modules\C#\Races\Races\bin\Debug\Races.exe.config
+E:\Code Modules\C#\Races\Races\bin\Debug\Races.exe
+E:\Code Modules\C#\Races\Races\bin\Debug\Races.pdb
+E:\Code Modules\C#\Races\Races\obj\Debug\Races.csprojResolveAssemblyReference.cache
+E:\Code Modules\C#\Races\Races\obj\Debug\Races.exe
+E:\Code Modules\C#\Races\Races\obj\Debug\Races.pdb
+E:\Code Modules\C#\Races\Races\obj\Debug\Races.csproj.CoreCompileInputs.cache
